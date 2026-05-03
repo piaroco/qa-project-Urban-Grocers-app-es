@@ -1,6 +1,6 @@
 # Proyecto de Pruebas Automatizadas: API Urban Grocers (Kits)
 
-Este proyecto contiene un grupo de pruebas automatizadas escritas en **Python** para validar la creación de "Kits" en la API de Urban Lunch. El objetivo es asegurar que el sistema acepte nombres válidos y rechace aquellos que no cumplen con las reglas de negocio.
+Este proyecto contiene un grupo de pruebas automatizadas escritas en **Python** para validar la creación de "Kits" en la API de Urban Grocers. El objetivo es asegurar que el sistema acepte nombres válidos y rechace aquellos que no cumplen con las reglas de negocio.
 
 ## Descripción del Proyecto
 El proyecto automatiza una lista de comprobación de 9 casos de prueba. Estos casos verifican:
